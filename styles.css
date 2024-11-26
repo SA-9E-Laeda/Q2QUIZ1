@@ -1,0 +1,31 @@
+h1{
+	background-color:lightskyblue;
+	text-align: center;
+	text-shadow: 4px 4px orange;
+}
+
+h2{
+	text-align: center;
+	text-shadow: 3px 3px #e60000;
+}
+
+h3{
+	font-size: 30px;
+}
+
+body {
+  background-image: url("giphy.gif");
+}
+
+th{
+	text-align: center;
+}
+
+td{
+	text-align: center;
+}
+
+table, th, td{
+	border: 2px solid black;
+	vertical-align: middle;
+}
